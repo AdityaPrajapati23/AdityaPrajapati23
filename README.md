@@ -32,4 +32,4 @@
 ---
 
 📫 **Connect With Me**
-- LinkedIn: (your link)
+- LinkedIn: ([link](https://www.linkedin.com/feed/))
