@@ -133,6 +133,9 @@ interests:
 <!-- PROJECTS PANEL -->
 <div align="center">
 
+<!-- PROJECTS PANEL -->
+<div align="center">
+
 ## `◈ ACTIVE PROJECT LOGS ◈`
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
@@ -146,31 +149,37 @@ interests:
 
 <td width="50%" valign="top">
 
-### `[ PROJECT_001 ]` 📋 TODO List Manager
+### `[ PROJECT_001 ]` 🤖 Local Agentic AI Assistant
 ```
-▸ LANG    : Java
-▸ TYPE    : Desktop Application
-▸ MODULE  : Task Management Engine
+▸ LANG    : Python
+▸ TYPE    : Autonomous AI Agent
+▸ MODULE  : Multi-Tool LangGraph Engine
 ▸ STATUS  : ██████████ DEPLOYED
-▸ FEAT    : CRUD ops, persistent storage,
-            CLI interface, priority queuing
+▸ STACK   : LangGraph · Groq · LangSmith
+Streamlit · OAuth 2.0
+▸ FEAT    : Gmail + Calendar + Tasks via
+OAuth, low-latency Groq LLM,
+LangSmith node-level tracing
 ```
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityaprajapati&repo=todo-list-manager&theme=github_dark&border_color=00ff88&title_color=00ff88&icon_color=00d4ff)](https://github.com/adityaprajapati)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityaprajapati&repo=local-agentic-ai-assistant&theme=github_dark&border_color=00ff88&title_color=00ff88&icon_color=00d4ff)](https://github.com/adityaprajapati)
 
 </td>
 
 <td width="50%" valign="top">
 
-### `[ PROJECT_002 ]` 🎙️ Voice Assistant
+### `[ PROJECT_002 ]` 🔍 RAG YouTube Q&A Pipeline
 ```
-▸ LANG    : Java
-▸ TYPE    : AI-Powered Assistant
-▸ MODULE  : NLP + Speech Recognition
+▸ LANG    : Python
+▸ TYPE    : RAG + Semantic Search System
+▸ MODULE  : Retrieval-Augmented Generation
 ▸ STATUS  : ██████████ DEPLOYED
-▸ FEAT    : Voice commands, API calls,
-            real-time response engine
+▸ STACK   : FastAPI · FAISS · HuggingFace
+LangChain · REST APIs
+▸ FEAT    : Dense vector search, sub-second
+latency, YouTube transcript Q&A,
+RESTful inference endpoints
 ```
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityaprajapati&repo=voice-assistant&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=ff00ff)](https://github.com/adityaprajapati)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityaprajapati&repo=rag-youtube-qa-pipeline&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=ff00ff)](https://github.com/adityaprajapati)
 
 </td>
 
@@ -185,8 +194,11 @@ interests:
 ▸ TYPE    : ML Regression Model
 ▸ MODULE  : Predictive Analytics Engine
 ▸ STATUS  : ██████████ DEPLOYED
-▸ FEAT    : Scikit-Learn, data preprocessing,
-            feature engineering, model tuning
+▸ STACK   : Scikit-Learn · Pandas · NumPy
+Matplotlib · Streamlit
+▸ FEAT    : Feature engineering, missing-
+value imputation, 5-fold CV,
+Random Forest + Gradient Boost
 ```
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityaprajapati&repo=car-price-predictor&theme=github_dark&border_color=ff00ff&title_color=ff00ff&icon_color=00ff88)](https://github.com/adityaprajapati)
 
